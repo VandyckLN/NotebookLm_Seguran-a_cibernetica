@@ -9,6 +9,13 @@
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red.svg)](https://github.com/VandyckLN/NotebookLm_Seguran-a_cibernetica)
 
 </div>
+<div align="center">
+# 🛡️ Cyber-Intelligence Notebook
+
+[![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/ba6b9cca-895b-4724-9d75-ae5be382ed56)
+</div>
+
+> **Status:** Ativo e Atualizado (Fevereiro 2026)
 
 ---
 
